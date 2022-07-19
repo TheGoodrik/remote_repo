@@ -6,3 +6,4 @@ New string has been added
 new string
 new string
 new string
+new string
